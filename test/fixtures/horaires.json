@@ -1,0 +1,44 @@
+{
+  "horaires": [
+  {
+  "id_jours": "1",
+  "id_etablissement": "9",
+  "m_opening": "08:00:00",
+  "m_closing": "12:00:00",
+  "a_opening": "14:00:00",
+  "a_closing": "18:00:00"
+  },
+  {
+  "id_jours": "2",
+  "id_etablissement": "9",
+  "m_opening": "08:00:00",
+  "m_closing": "12:00:00",
+  "a_opening": "14:00:00",
+  "a_closing": "18:00:00"
+  },
+  {
+  "id_jours": "3",
+  "id_etablissement": "9",
+  "m_opening": "08:00:00",
+  "m_closing": "12:00:00",
+  "a_opening": "14:00:00",
+  "a_closing": "18:00:00"
+  },
+  {
+  "id_jours": "4",
+  "id_etablissement": "9",
+  "m_opening": "08:00:00",
+  "m_closing": "12:00:00",
+  "a_opening": "14:00:00",
+  "a_closing": "18:00:00"
+  },
+  {
+  "id_jours": "5",
+  "id_etablissement": "9",
+  "m_opening": "08:00:00",
+  "m_closing": "12:00:00",
+  "a_opening": "14:00:00",
+  "a_closing": "18:00:00"
+  }
+]
+}
